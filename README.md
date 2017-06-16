@@ -1,2 +1,27 @@
 # Resource_Management_Software_ASP.NET
-Its the project I built as a part of training in ASP.NET and other Microsoft technologies when I joined HCL Technologies as Software Engineer in 2013
+The Resource Management Software is a web application prototype built as a hands-on project during my training in Microsoft technologies in HCL Technologies when I joined as Software Engineer in 2013.
+
+## Technology stack
+ASP.NET
+C#
+ADO.NET
+Microsoft SQL Server 2008
+IDE - Microsoft Visual Web Developer 2010 Express
+
+## Features
+* 4 profiles of users - Admin, Employee, Resouce Manager, Project Manager.
+* Each user profile has specific access and permissions. For example:
+  * User Creation - Admin
+  * Skill Updation - All
+  * Project Requirement Addition - Project Manager
+  * Skill Mapping - Employee, Project Manager, Resource Manager
+* Project Requirement Addition includes two functionalities:
+  * Post Project Requirements
+  * View Projects
+* Skill Mapping includes two functionalities:
+  * View Projects -> Project Requirements
+  * Project Opportunity -> Accept/Reject
+  
+## Snapshots
+
+![picture alt](https://drive.google.com/drive/u/0/folders/0B2vZxa1iG3MLdkFjMmYwR3B0Rzg "Login Screen")
