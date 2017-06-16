@@ -24,4 +24,5 @@ IDE - Microsoft Visual Web Developer 2010 Express
   
 ## Snapshots
 
-![picture alt](https://drive.google.com/drive/u/0/folders/0B2vZxa1iG3MLdkFjMmYwR3B0Rzg "Login Screen")
+### Login Screen
+![picture alt](https://github.com/cjwvu/Resource_Management_Software_ASP.NET/blob/master/RMS/snapshots/login.png "Login Screen")
