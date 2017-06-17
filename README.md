@@ -2,11 +2,7 @@
 The Resource Management Software is a web application prototype built as a hands-on project during my training in Microsoft technologies in HCL Technologies when I joined as Software Engineer in 2013.
 
 ## Technology stack
-ASP.NET
-C#
-ADO.NET
-Microsoft SQL Server 2008
-IDE - Microsoft Visual Web Developer 2010 Express
+ASP.NET | C#| ADO.NET| Microsoft SQL Server 2008| IDE - Microsoft Visual Web Developer 2010 Express
 
 ## Features
 * 4 profiles of users - Admin, Employee, Resouce Manager, Project Manager.
